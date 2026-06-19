@@ -61,15 +61,19 @@ Panduan Menu:
 
 # 🗃️Sturktur 
 📦Kriptografi-Makalah-RD
+ 
  ┣ 📜 rdh.py                  # Skrip utama program RDH
+ 
  ┣ 📜 README.md               # Dokumentasi proyek ini
+ 
  ┣ 📜 chest_xray.png          # (Sampel) Citra Sinar-X Dada asli
+ 
  ┣ 📜 leg_xray.png            # (Sampel) Citra Sinar-X Kaki asli
+ 
  ┗ 📜 brain_xray.png          # (Sampel) Citra MRI Otak asli
 
 ---
 
 # 👨‍💻 Penulis
 Nawaf Amjad Rizqi A. Ismail (18223073)
-
-Program Studi Sistem dan Teknologi Informasi, ITB
+Sistem dan Teknologi Informasi, ITB
