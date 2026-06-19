@@ -50,6 +50,7 @@ python rdh.py
 ```
 
 Panduan Menu:
+
 **Menu 1 (Embed Pesan)**: Anda akan diminta memasukkan nama file gambar asli (misal: chest_xray.png), teks pesan rahasia yang ingin disisipkan, dan nama keluaran citra stego (misal: stego_chest.png). Program akan otomatis mencetak nilai Peak Point, Zero Point, dan kalkulasi PSNR (dB).
 
 **Menu 2 (Extract Pesan)**: Anda akan diminta memasukkan nama citra stego, nilai Peak dan Zero (yang didapatkan dari langkah Embed), serta nama untuk gambar pemulihan. Program akan mencetak pesan rahasia ke layar terminal dan menyimpan gambar yang telah dipulihkan.
