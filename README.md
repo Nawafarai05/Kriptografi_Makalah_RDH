@@ -76,4 +76,5 @@ Panduan Menu:
 
 # 👨‍💻 Penulis
 Nawaf Amjad Rizqi A. Ismail (18223073)
+
 Sistem dan Teknologi Informasi, ITB
