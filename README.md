@@ -37,7 +37,8 @@ cd Kriptografi-Makalah-RD
 ```bash
 python rdh.py
 ```
-3. **Setelah dijalankan, Anda akan disambut dengan menu pilihan seperti di bawah ini. Pilih saja sesuai kebutuhan dan ikuti arahan input yang dibutuhkan"
+3. **Setelah dijalankan, Anda akan disambut dengan menu pilihan seperti di bawah ini.** Pilih saja sesuai kebutuhan dan ikuti arahan input yang dibutuhkan
+``` bash
 ==================================================
  PROGRAM REVERSIBLE DATA HIDING (HISTOGRAM SHIFTING)
 ==================================================
@@ -46,6 +47,7 @@ python rdh.py
 3. Buat Grafik Histogram
 4. Keluar
 ==================================================
+```
 
 Panduan Menu:
 **Menu 1 (Embed Pesan)**: Anda akan diminta memasukkan nama file gambar asli (misal: chest_xray.png), teks pesan rahasia yang ingin disisipkan, dan nama keluaran citra stego (misal: stego_chest.png). Program akan otomatis mencetak nilai Peak Point, Zero Point, dan kalkulasi PSNR (dB).
